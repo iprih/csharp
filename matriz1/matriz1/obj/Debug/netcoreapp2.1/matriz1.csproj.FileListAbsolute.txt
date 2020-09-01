@@ -1,0 +1,12 @@
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\bin\Debug\netcoreapp2.1\matriz1.deps.json
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\bin\Debug\netcoreapp2.1\matriz1.runtimeconfig.json
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\bin\Debug\netcoreapp2.1\matriz1.runtimeconfig.dev.json
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\bin\Debug\netcoreapp2.1\matriz1.dll
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\bin\Debug\netcoreapp2.1\matriz1.pdb
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.csprojAssemblyReference.cache
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.AssemblyInfoInputs.cache
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.AssemblyInfo.cs
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.dll
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.pdb
+C:\Users\Priscila\Documents\GitHub\curso-logica-de-programacao-csharp\matriz1\matriz1\obj\Debug\netcoreapp2.1\matriz1.genruntimeconfig.cache
