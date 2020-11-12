@@ -1,0 +1,12 @@
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\bin\Debug\netcoreapp3.1\condicional2.exe
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\bin\Debug\netcoreapp3.1\condicional2.deps.json
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\bin\Debug\netcoreapp3.1\condicional2.runtimeconfig.json
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\bin\Debug\netcoreapp3.1\condicional2.runtimeconfig.dev.json
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\bin\Debug\netcoreapp3.1\condicional2.dll
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\bin\Debug\netcoreapp3.1\condicional2.pdb
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\obj\Debug\netcoreapp3.1\condicional2.AssemblyInfoInputs.cache
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\obj\Debug\netcoreapp3.1\condicional2.AssemblyInfo.cs
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\obj\Debug\netcoreapp3.1\condicional2.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\obj\Debug\netcoreapp3.1\condicional2.dll
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\obj\Debug\netcoreapp3.1\condicional2.pdb
+C:\Users\Priscila\Documents\GitHub\csharp\condicional2\condicional2\obj\Debug\netcoreapp3.1\condicional2.genruntimeconfig.cache
